@@ -49,7 +49,7 @@ public class SwaggerConfig implements WebMvcConfigurer {
                         .license(new License().name("Apache 2.0").url("http://springdoc.org")))
                 .externalDocs(new ExternalDocumentation()
                         .description("Base Test Source Documentation")
-                        .url("https://springshop.wiki.github.org/docs"));
+                        .url("https://github.com/loganncuz/java-springboot-base-test-budi-hermawan.git"));
     }
 
 
